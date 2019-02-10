@@ -1,4 +1,4 @@
-## Hi I'm testing this out:3
+## Hi I'm testing this out 🍭
 
 You can use the [editor on GitHub](https://github.com/ajdgem/this-is-a-test/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
