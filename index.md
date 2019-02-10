@@ -46,3 +46,9 @@ Trying out a table:
 Dogs | Cats
 -----|-------
 Dogs are named "dogs" because they are named dogs | Cats are named "cats" because they are named cats
+I'm adding more lines so it looks neater|I'm adding more lines so it looks neater
+I'm adding more lines so it looks neater|I'm adding more lines so it looks neater
+I'm adding more lines so it looks neater|I'm adding more lines so it looks neater
+I'm adding more lines so it looks neater|I'm adding more lines so it looks neater
+I'm adding more lines so it looks neater|I'm adding more lines so it looks neater
+I'm adding more lines so it looks neater|I'm adding more lines so it looks neater
