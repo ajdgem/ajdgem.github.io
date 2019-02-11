@@ -37,7 +37,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
 
-
+_My Web page is: ajdgem.github.io_
 
 ### Experiment
 
@@ -52,3 +52,26 @@ I'm adding more lines so it looks neater|I'm adding more lines so it looks neate
 I'm adding more lines so it looks neater|I'm adding more lines so it looks neater
 I'm adding more lines so it looks neater|I'm adding more lines so it looks neater
 I'm adding more lines so it looks neater|I'm adding more lines so it looks neater
+
+
+`Insert items here`
+
+
+
+### Experiment #2
+
+-I'm
+-testing
+-out
+-a
+-list
+-okay?
+
+hopefully that'll work.
+
+1. Now
+2. trying
+3. out
+4. a
+5. numbered
+6. chart
