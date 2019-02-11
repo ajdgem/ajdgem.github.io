@@ -60,12 +60,12 @@ I'm adding more lines so it looks neater|I'm adding more lines so it looks neate
 
 ### Experiment #2
 
--I'm
--testing
--out
--a
--list
--okay?
+- I'm
+- testing
+- out
+- a
+- list
+- okay?
 
 hopefully that'll work.
 
