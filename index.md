@@ -28,6 +28,9 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
+_wondering what this does XD_
+-This probrbaly just make things look pretty, nothing else but zi'm just going to put this in here-
+
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ajdgem/this-is-a-test/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
@@ -75,3 +78,16 @@ hopefully that'll work.
 4. a
 5. numbered
 6. chart
+
+
+
+
+
+
+wh
+
+
+
+
+
+###
