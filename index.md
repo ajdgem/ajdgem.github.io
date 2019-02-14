@@ -35,6 +35,7 @@ _wondering what this does XD_
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ajdgem/this-is-a-test/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
+```check
 
 `code text testing right here xd`
 `if i leave out the thing at the end test...
